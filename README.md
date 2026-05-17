@@ -148,3 +148,9 @@ curl -X POST http://localhost:5000/upload-session \
 | Good               | 60–79%   |
 | Fair               | 40–59%   |
 | Needs Improvement  | < 40%    |
+
+
+This Is Frontend Side project I created using flutter to connect with videoDB Api
+https://github.com/petkarrushikesh/focuslens_frontend
+<img width="720" height="1640" alt="Screenshot_20260508-085733" src="https://github.com/user-attachments/assets/3e9dd765-557a-4b35-aa14-95ad2c84689b" />
+
