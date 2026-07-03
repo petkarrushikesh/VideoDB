@@ -1,5 +1,5 @@
 <img width="720" height="1640" alt="WhatsApp Image 2026-07-03 at 10 27 04 PM" src="https://github.com/user-attachments/assets/a29ff95f-1db5-4133-b8dc-b035648b82d8" />
-<img width="720" height="1640" alt="WhatsApp Image 2026-07-03 at 10 27 04 PM" src="https://github.com/user-attachments/assets/fa28239b-a054-46ac-beaf-b13034fe46bb" />
+
 # FocusLens Lite
 
 A minimal, production-quality Flask backend that analyzes study session videos
